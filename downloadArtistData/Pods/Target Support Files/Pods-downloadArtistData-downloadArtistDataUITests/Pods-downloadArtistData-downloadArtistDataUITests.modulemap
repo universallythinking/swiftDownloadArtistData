@@ -1,0 +1,6 @@
+framework module Pods_downloadArtistData_downloadArtistDataUITests {
+  umbrella header "Pods-downloadArtistData-downloadArtistDataUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
